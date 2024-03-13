@@ -5,7 +5,7 @@ export default function PageMovimentacoes() {
     <>
       <NavBar />
 
-      <main className="container bg-slate-900 mt-10 mx-auto rounded p-4">
+      <main className="container bg-green-600 mt-10 mx-auto rounded p-4">
         <h2>Movimentações</h2>
       </main>
     </>

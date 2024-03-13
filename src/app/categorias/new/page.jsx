@@ -29,7 +29,7 @@ export default function CategoriaNew() {
         <>
             <NavBar />
 
-            <main className="container bg-slate-900 mt-10 mx-auto rounded p-10 max-w-xl">
+            <main className="container bg-green-600 mt-10 mx-auto rounded p-10 max-w-xl">
                 <h2 className="text-2xl font-bold">Cadastrar Categoria</h2>
 
                 <form action={onSubmit} className="flex flex-col items-start gap-2 mt-2">
